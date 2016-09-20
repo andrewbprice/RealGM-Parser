@@ -9,6 +9,7 @@ Script is set up for the Australian NBL.
 Currently parses the following tables:
 
 Team Totals
+<br>
 Team Averages
 Team Metrics
 Opponent Totals
