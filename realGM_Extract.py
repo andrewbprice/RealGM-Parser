@@ -1,3 +1,9 @@
+#######################################################
+############ SCRIPT CREATED BY ANDREW PRICE ###########
+##### EXTRACT BASKETBALL STAT DATA FROM REAL GM #######
+############### VERSION 1.2 - SEPT 2016 ###############
+#######################################################
+
 import urllib.request as urllib
 from bs4 import BeautifulSoup
 import csv
